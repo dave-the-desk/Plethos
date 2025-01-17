@@ -1,5 +1,8 @@
 # Plethos
 personal project in data analysis
 
-Nov 14, 2024
-Created a Github repo to share. Normally I keep my projects on my machine, and I tend not to share due to being a bit of a perfectionist for my personal works and always try and improve. Will share AI porion in a couple days
+Nov 14
+
+Plethos is a web scraping algorithm that uses Selenium and BS4 to process data on congressional stock trades and utilize SQLite as the backend database.
+
+This is an ongoing project that I work on in my free time, I plan to implement Sentiment Analysis using NLTK and cloud computing using AWS
